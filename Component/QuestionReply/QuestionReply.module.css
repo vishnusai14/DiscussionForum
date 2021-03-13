@@ -1,0 +1,13 @@
+.notValid {
+    background-color: rgb(255, 127, 80);
+    border: 1px solid red;
+  
+}
+
+
+.replyField {
+    outline: none;
+    margin : 10px;
+    padding : 5px;
+    text-align: center;
+}
